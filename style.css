@@ -3,7 +3,7 @@
   flex-direction: row;
   border: 3px solid #FF241D;
   flex-wrap: wrap;
-  justify-content: center;
+  /*justify-content: center;*/
   max-width: 100%;
 }
 .childone{
