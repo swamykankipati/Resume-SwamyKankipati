@@ -1,4 +1,4 @@
-[ClickMe](https://swamykankipati.github.io/PWA_Phase-1_SRKR/)
+[ClickMe](https://swamykankipati.github.io/Resume-SwamyKankipati/)
 # How to run the Project 
  -To add 200 ok server extenstion into your Chrome Browser 
  - To Select the current WorkPlace and
