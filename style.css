@@ -55,6 +55,7 @@ td{
     text-align: center;
     font-size: 24px;
     background-color:;
+    text-align: center;
   }
   img{
     width:200px;
@@ -82,6 +83,11 @@ td{
   h4{
       word-wrap: break-word;
   }
+  p,li{
+    font-size: 22px;
+    /*color:maroon;*/
+  }
+
 }
 @media only screen and (min-width:481px) and (max-width:768px ){
   .parent{
@@ -98,11 +104,12 @@ td{
     margin: 2%;
     width: 90%;
     border-radius: 10%;
-    text-align: left;
+    /*text-align: left;*/
     font-family: cursive;
     font-style: italic;
     font-size: 24px;
     background-color: #FFF580;
+    text-align: center;
   }
   img{
     width:200px;
@@ -129,6 +136,9 @@ td{
   td{
     padding:2%
   }
+  p,li{
+    font-size: 22px;
+  }
 }
 @media only screen and (min-width:769px) and (max-width:1024px ){
   .parent{
@@ -145,7 +155,7 @@ td{
     margin: 2%;
     width: 90%;
     border-radius: 10%;
-    text-align: left;
+    text-align: center;
     font-family: cursive;
     font-style: italic;
     font-size: 24px;
@@ -175,5 +185,8 @@ td{
   }
   td{
     padding:2%
+  }
+  p,li{
+    font-size: 22px;
   }
 }
